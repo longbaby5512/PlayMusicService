@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Play Music Service</string>
+    <string name="app_added">%1$s installed successfully</string>
+    <string name="app_removed">%1$s uninstalled successfully</string>
+</resources>
